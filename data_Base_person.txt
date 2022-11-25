@@ -1,0 +1,47 @@
+Nome:  Ana Vieira 
+Data de nascimento:  8 9 1954 
+Diagnostico: 9 6 2021 
+Endereco:  SP Campinas 
+CEP:  78945677 
+CPF:  88888885555 
+Telefone/CCPF:  11977777777 
+ 
+ÿÿœÿÿÿ 
+------------------------------ 
+Nome:  Ailton Ribeiro 
+Data de nascimento:  9 9 1955 
+Diagnostico: 6 5 2020 
+Endereco:  SE Aracaju 
+CEP:  7896541 
+CPF:  8787887844 
+Telefone: CPF:  79955588888 
+ 
+------------------------------ 
+Nome:  Mara Dantas 
+Data de nascimento:  0503Na¼ 03Na¼ 2001 
+Diagnostico: 0407 072020 
+Endereco:  SP Campinas 
+CEP:  12345678 
+CPF:  12112112144 
+11955555555 
+ 
+------------------------------ 
+Nome:  Joana Silva 
+Data de nascimento:  1 5 1995 
+Diagnostico: 9 5 2020 
+Endereco:  SP Campinas 
+CEP:  12345678 
+CPF:  4561237896 
+1197777777 
+ 
+------------------------------ 
+
+Nome:  Rafael Dantas 
+Data de nascimento:  5 5 1997 
+Diagnostico: 4 2 20200 
+Endereco:  SP Guarulhos 
+CEP:  12345678 
+CPF:  74774744711 
+1199999999 
+ 
+------------------------------ 
